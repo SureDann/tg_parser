@@ -1,4 +1,4 @@
-This is a normal parsing of Telegram accounts and messages from a channel or chats, create a config.ini file and current data in the parser_1.py file directory
+This is a parsing script of Telegram accounts and messages from a channel or chats, create a config.ini file and current data in the parser_1.py file directory
 
 [Telegram]
 app_id=your app id
